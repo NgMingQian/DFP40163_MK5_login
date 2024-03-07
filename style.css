@@ -98,3 +98,8 @@ header {
   cursor: pointer;
 }
 
+.oval-button img {
+  max-width: 50%;
+  max-height: 50%;
+}
+
